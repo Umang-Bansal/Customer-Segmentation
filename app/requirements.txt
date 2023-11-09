@@ -7,4 +7,7 @@ scikit-learn
 plotly
 plotly-express
 dash-bootstrap-components
+dash-core-components
+dash-html-components
+dash-renderer
 gunicorn
